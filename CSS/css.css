@@ -1,0 +1,26 @@
+body {
+background-color: #899D78;}
+ul.nav {
+list-style-type: none;
+margin: 0;
+padding: 0;
+overflow: hidden;
+background-color: #FDC221;}
+li.nav {
+float: right;}
+li.nav a {
+	font-family: "Merriweather", serif;
+	font-size: 2em;
+	display: block;
+	color: #053C5E;
+	text-align: center;
+	padding: 14px 16px;
+	text-decoration: none;
+}
+h1 {
+	text-align: center;
+	font-size: 3em;
+}
+div.bio {
+	display: block;
+}
